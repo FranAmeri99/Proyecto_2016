@@ -1,0 +1,27 @@
+Proyecto
+/home/lucas/Escritorio/Proyecto/base-de-datos.ger
+Anonymous GNUdist
+4
+1
+0 0 1024 768
+2
+Usuario
+74.0
+43.0
+6
+Nombre varchar(32)
+Apellido varchar(32)
+DNI int
+Nombre-usuario varchar(32)
+Contraseña varchar(32)
+Descripcion text
+1
+Nombre-usuario
+0
+Fotos
+425.0
+59.0
+0
+0
+0
+0
